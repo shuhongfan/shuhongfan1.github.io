@@ -1,0 +1,21 @@
+# Site settings
+name: 舒洪凡
+location: 武汉
+company: 武汉职业技术学院
+position: WEB前端开发工程师
+age: 20
+school: 应届生
+github: https://github.com/shuhongfan
+facebook: https://shuhongfan.github.io/
+phone: 13437191068
+email: shfshuhongfan@126.com
+
+baseurl: ""
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
